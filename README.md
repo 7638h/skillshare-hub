@@ -51,7 +51,7 @@ AI is used responsibly for guidance, not decision-making.
 ---
 
 ## 🏆 Hackathon Context
-Built during an international hackathon with a focus on:
+Built during an lovhack hackathon with a focus on:
 - Education & Student Life
 - Accessibility
 - Community-driven learning
